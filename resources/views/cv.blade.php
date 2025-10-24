@@ -14,7 +14,7 @@
 
 <x-section title="Pendidikan">
     <ul>
-        <li><strong>S1 Sistem Informasi</strong> – Universitas Teknologi Yogyakarta (2023–2027)</li>
+        <li><strong>S1 Sistem Informasi</strong> – Universitas Teknologi Yogyakarta (2023–Sekarang)</li>
         <li><strong>SMK Negeri 2 Bengkulu Utara</strong> – Teknik Komputer & Jaringan (2020–2023)</li>
         <li><strong>SMP Negeri 1 Bengkulu Utara</strong> (2017–2020)</li>
         <li><strong>SD Negeri 17 Bengkulu Utara</strong> (2011–2017)</li>
@@ -43,7 +43,6 @@
         <li>Administrasi Jaringan (LAN, WLAN, Mikrotik, Cisco)</li>
         <li>Manajemen Database (MySQL, phpMyAdmin)</li>
         <li>Desain Antarmuka (UI/UX dasar dengan Figma)</li>
-        <li>Analisis Sistem Informasi dan Dokumentasi Teknis</li>
         <li>Instalasi dan konfigurasi sistem operasi (Windows & Linux)</li>
         <li>Komunikasi dan Kerjasama Tim</li>
     </ul>
