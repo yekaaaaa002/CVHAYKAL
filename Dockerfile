@@ -14,8 +14,8 @@ RUN chmod -R 775 /var/www/html/storage /var/www/html/bootstrap/cache
 RUN a2enmod rewrite
 RUN sed -i '/<Directory \/var\/www\/>/,/<\/Directory>/ s/AllowOverride None/AllowOverride All/' /etc/apache2/apache2.conf
 
-# Set working directory
-WORKDIR /var/www/html
+# **Ganti DocumentRoot ke folder public**
+RUN sed -i 's|DocumentRoot /var/www/html|DocumentRoot /var/www/html/public|' /etc/apache2/sites-available/000-default.conf
 
-# Jalankan Laravel di port default Apache (80)
-EXPOSE 80
+# Set working directory
+WORKDIR /var/www/
