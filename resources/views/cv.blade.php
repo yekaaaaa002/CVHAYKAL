@@ -15,9 +15,9 @@
 <x-section title="Pendidikan">
     <ul>
         <li><strong>S1 Sistem Informasi</strong> – Universitas Teknologi Yogyakarta (2023–Sekarang)</li>
-        <li><strong>SMK Negeri 2 Bengkulu Utara</strong> – Teknik Komputer & Jaringan (2020–2023)</li>
-        <li><strong>SMP Negeri 1 Bengkulu Utara</strong> (2017–2020)</li>
-        <li><strong>SD Negeri 17 Bengkulu Utara</strong> (2011–2017)</li>
+        <li><strong>SMK Negeri 2 Bengkulu Utara</strong> – Teknik Komputer & Jaringan (2019–2022)</li>
+        <li><strong>SMP Negeri 1 Bengkulu Utara</strong> (2016–2019)</li>
+        <li><strong>SD Negeri 17 Bengkulu Utara</strong> (2010–2016)</li>
     </ul>
 </x-section>
 
